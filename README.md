@@ -2,4 +2,4 @@
 
 ## Índice
 
-1. [Empresa](Empresas/empresas.md)
+1. [Empresa](Empresa/empresas.md)
