@@ -1,2 +1,5 @@
-# proyecto-bbdd-tienda
-Modelando y formando la base de datos de un proyecto para una tienda
+# Proyecto BD
+
+## Índice
+
+1. [Empresa](Empresas%20opciones/empresas.md)
