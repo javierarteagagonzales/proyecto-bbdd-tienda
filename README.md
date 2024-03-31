@@ -2,4 +2,4 @@
 
 ## Índice
 
-1. [Empresa](Empresas%20opciones/empresas.md)
+1. [Empresa](Empresas/empresas.md)
